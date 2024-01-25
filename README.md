@@ -1,6 +1,6 @@
 # Aldo_Template_HTML_CSS_jQuery.
 
-[Aldo Template](https://sami-m99.github.io/testTamplateAldo/)
+[Aldo Template](https://sami-m99.github.io/Aldo_Template/)
 
 Aldo Template by HTML, CSS and jQuery.
 
